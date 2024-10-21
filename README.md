@@ -18,4 +18,7 @@ This script provides a simple UI that displays the server rules when a player us
    ```lua
    Config.Command = 'rules'  -- Set your preferred command
    ```
-4. Edit the server rules in the `html/ui.html` file to match your server's requirements.
+4. Edit the server rules in the `html/ui.html`
+
+
+![Schermafbeelding 2024-10-21 211836](https://github.com/user-attachments/assets/0fe9b507-ce8d-429b-aade-ff3a076a0e39)
