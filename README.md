@@ -1,0 +1,1 @@
+# FiveM-Server-Rules-Command-Script
